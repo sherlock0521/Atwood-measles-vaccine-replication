@@ -74,7 +74,7 @@ The following packages are automatically installed when needed:
 
 ## 📦 Data
 
-All raw data files are publicly available and stored in the `raw_data/` folder.  
+All raw data files are publicly available and stored in the `rawdata/` folder.  
 This includes:
 - Infectious disease data from CDC MMWR reports  
 - NHES, NHANES survey files  
